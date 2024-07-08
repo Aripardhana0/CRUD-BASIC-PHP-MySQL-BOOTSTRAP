@@ -55,7 +55,6 @@ php
 
 <?php
 
-
 $servername = "localhost";
 
 $username = "your_database_username";
@@ -79,13 +78,6 @@ Read: View the list of records in a table format on the main page.
 Update: Click the "Edit" button next to a record to update its information.
 
 Delete: Click the "Delete" button next to a record to remove it from the database.
-
-Screenshots
-
-
-
-
-
 
 ## Contributing
 
