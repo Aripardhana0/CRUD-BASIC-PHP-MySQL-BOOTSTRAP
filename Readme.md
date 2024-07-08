@@ -1,8 +1,8 @@
-#CRUD Application with PHP, MySQL, and Bootstrap
+# CRUD Application with PHP, MySQL, and Bootstrap
 
 This project is a simple CRUD (Create, Read, Update, Delete) application built using PHP, MySQL, and Bootstrap. It provides a user-friendly interface to manage records in a MySQL database.
 
-##Features
+## Features
 
 Create: Add new records to the database.
 
@@ -14,7 +14,7 @@ Delete: Remove records from the database.
 
 Responsive Design: Uses Bootstrap for a responsive and mobile-friendly design.
 
-##Requirements
+## Requirements
 
 PHP 7 or higher
 
@@ -87,19 +87,19 @@ Screenshots
 
 
 
-##Contributing
+## Contributing
 
 Contributions are welcome! Please fork this repository, make your changes, and submit a pull request.
 
 
 
-##License
+## License
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
 
 
-##Acknowledgements
+## Acknowledgements
 
 Bootstrap
 
