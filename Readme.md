@@ -53,8 +53,6 @@ Open config.php and update the database connection settings:
 
 php
 
-<?php
-
 $servername = "localhost";
 
 $username = "your_database_username";
