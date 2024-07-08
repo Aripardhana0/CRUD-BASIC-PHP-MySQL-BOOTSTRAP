@@ -81,6 +81,9 @@ Delete: Click the "Delete" button next to a record to remove it from the databas
 
 Contributions are welcome! Please fork this repository, make your changes, and submit a pull request.
 
+## ScreenSHoot
+
+![image](https://github.com/Aripardhana0/CRUD-BASIC-PHP-MySQL-BOOTSTRAP/assets/143325663/2ad1e4b5-bbfe-4168-9b60-183b7538dbf0)
 
 
 ## License
